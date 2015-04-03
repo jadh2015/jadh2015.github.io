@@ -8,7 +8,7 @@ permalink: /call/
 
 The Japanese Association for Digital Humanities is pleased to announce
 its fifth annual conference, to be held at Kyoto University, Japan,
-September 1-3, 2015. ([JADH2015](http://www.jadh.org/JADH2015/))
+September 1-3, 2015. 
 
 The conference will feature posters, papers and panels. We invite
 proposals on all aspects of digital humanities globally, and
