@@ -27,6 +27,10 @@ so doing, we hope to contribute to the spread of the application of
 encoding in various stages and the critical engagement with digital
 resources in the Humanities.
 
+#### Important dates:
+	- Call for paper deadline:  May 7th, 2015
+	- Notification of acceptance:  May 30th, 2015
+
 See ["Call for Papers"]({{ site.baseurl }}call) for details.
 
 ### Hosted by:
