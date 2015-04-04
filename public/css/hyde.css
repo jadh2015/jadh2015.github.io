@@ -56,8 +56,8 @@ html {
 .sidebar {
   text-align: center;
   padding: .5rem 1rem;
-  color: rgba(255,255,255,.5);
-  background-color: #202020;
+  color: rgba(230,255,230,.5);
+  background-color: #707079;
   font-size: 18px;
 }
 @media (min-width: 48rem) {
