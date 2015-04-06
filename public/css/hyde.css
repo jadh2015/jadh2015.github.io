@@ -46,6 +46,17 @@ html {
 }
 
 
+/* banner */
+
+.banner {
+    margin-left: 0rem;
+}
+@media (min-width: 48rem) {
+.banner {
+    margin-left: 23rem;
+}
+}
+
 /*
  * Sidebar
  *

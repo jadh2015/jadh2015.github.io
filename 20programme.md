@@ -3,7 +3,7 @@ layout: page
 title: Program
 permalink: /program/
 ---
-Programme (to be announced)
+Program (to be announced)
 <div id="posts">
   <ul>
     {% for post in site.posts %}
