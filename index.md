@@ -57,6 +57,7 @@ School of Humanities and Sociology, The University of Tokyo
  * International Institute for Digital Humanities
  [[Home](http://www.dhii.jp/index-e.html)]
 
+<!---
 ### Co-sponsored by:
 
  * The Mathematical Linguistic Society of Japan
@@ -73,5 +74,7 @@ School of Humanities and Sociology, The University of Tokyo
 [[Home](http://www.jslis.jp/aboutjslis_1_en.html)]
  * Japan Society for Information and Media Studies (JSIMS)
 [[Home](http://www.jsims.jp/)]
+
+-->
 
 Copyright 2015 The Japanese Association for Digital Humanities
