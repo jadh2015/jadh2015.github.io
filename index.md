@@ -36,7 +36,7 @@ See ["Call for Papers"]({{ site.baseurl }}call) for details.
 ### Hosted by:
 
 JADH2015 Organizing Committee
-[[Members]({{ site.baseurl }}Committee)]
+[[Members]({{ site.baseurl }}committee)]
  under the auspices of the Japanese Association for Digital Humanities
 [[Home](http://www.jadh.org/)]
 
