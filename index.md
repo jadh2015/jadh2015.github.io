@@ -9,7 +9,7 @@ layout: default
 is pleased to announce its fifth annual conference, to be held at the
 [Insitute for Research in Humanities](http://www.zinbun.kyoto-u.ac.jp/e/institute/access-institute/access_e.htm),
 Kyoto University, Japan, September 1-3,
-2015. ([JADH2015](http://www.jadh.org/JADH2015/))
+2015. 
 
 While the digitization of cultural resources has been widely carried
 out in Japan, it has been of only the most prized treasures and
