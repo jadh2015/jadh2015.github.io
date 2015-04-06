@@ -50,7 +50,7 @@ JADH2015 Organizing Committee
 <!---
 The Center for Integrated Area Studies (CIAS) at Kyoto University was established with the aims of integrating information resources for area studies, conducting research in integrated area studies, and making research resources and facilities available to universities and other research institutions, both nationwide and globally.
 -->
- * 文学部
+ * Graduate School of Letters, Kyoto University [[Home](http://www.kyoto-u.ac.jp/en/about/profile/faculty/faculties_and_graduate/letters.html)]
  * URA
  * Digital Humanities Initiative, Center for Evolving Humanities, Graduate
 School of Humanities and Sociology, The University of Tokyo
