@@ -57,6 +57,9 @@ School of Humanities and Sociology, The University of Tokyo
  * International Institute for Digital Humanities
  [[Home](http://www.dhii.jp/index-e.html)]
 
+### Supported by 
+
+ * Kyoto University Research Administration Offices
 <!---
 ### Co-sponsored by:
 
