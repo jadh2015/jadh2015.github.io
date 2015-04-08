@@ -28,7 +28,7 @@ encoding in various stages and the critical engagement with digital
 resources in the Humanities.
 
 #### Important dates:
-	- Call for paper deadline:  May 7th, 2015
+	- Call for papers deadline:  May 7th, 2015
 	- Notification of acceptance:  May 30th, 2015
 
 See ["Call for Papers"]({{ site.baseurl }}call) for details.
@@ -60,7 +60,8 @@ School of Humanities and Sociology, The University of Tokyo
 ### Supported by 
 
  * Kyoto University Research Administration Offices
-<!---
+
+<!--
 ### Co-sponsored by:
 
  * The Mathematical Linguistic Society of Japan
