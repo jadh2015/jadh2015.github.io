@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<span style="color:red">breaking news:  Deadline extended -- The new deadline is now May 18th, 2015 23:59 JST</span>
 
 ### Encoding Cultural Resources
 
@@ -28,7 +29,7 @@ encoding in various stages and the critical engagement with digital
 resources in the Humanities.
 
 #### Important dates:
-	- Call for papers deadline:  May 7th, 2015
+	- Call for papers deadline:  May 7th, 2015 --> May 18th, 2015 23:59
 	- Notification of acceptance:  May 30th, 2015
 
 See ["Call for Papers"]({{ site.baseurl }}call) for details.
