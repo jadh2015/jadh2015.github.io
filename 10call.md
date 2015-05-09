@@ -51,7 +51,7 @@ humanities in academic curricula;
 The range of topics covered by Digital Humanities can also be consulted in the journal
 [Digital Scholarship in the Humanities](http://dsh.oxfordjournals.org/about), Oxford University Press.
 
-The deadline for submission of abstracts is May 18, 2015. Presenters will be notified of acceptance on 30 May 2015.
+The deadline for submission of abstracts has been extended to May 18, 2015. Presenters will be notified of acceptance on 30 May 2015 (late submitters by middle of June).
 
 Abstracts should be of approximately 750 words in length in English, including title. The following information should clearly be stated (in either an attached file, or the email body):
 
