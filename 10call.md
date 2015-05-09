@@ -65,7 +65,7 @@ Abstracts should be of approximately 750 words in length in English, including t
 
 * Abstract should not include above information--except for the title.
 
-Please send abstracts to conf2015 [ at ] jadh.org by May 7, 2015.
+Please send abstracts to conf2015 [ at ] jadh.org by May 18, 2015.
 
 Type of proposals:
 
