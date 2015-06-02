@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<span style="color:red">breaking news:  Deadline extended -- The new deadline is now May 18th, 2015 23:59 (GMT)</span>
 
 ### Encoding Cultural Resources
 
