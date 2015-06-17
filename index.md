@@ -60,6 +60,7 @@ School of Humanities and Sociology, The University of Tokyo
 
  * Kyoto University Research Administration Offices
  * The Kyoto University Foundation 
+
 <!--
 ### Co-sponsored by:
 
@@ -77,7 +78,6 @@ School of Humanities and Sociology, The University of Tokyo
 [[Home](http://www.jslis.jp/aboutjslis_1_en.html)]
  * Japan Society for Information and Media Studies (JSIMS)
 [[Home](http://www.jsims.jp/)]
-
 -->
 
 Copyright 2015 The Japanese Association for Digital Humanities
