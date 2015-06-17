@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<span style="color:red">breaking news:  Deadline extended -- The new deadline is now May 18th, 2015 23:59 (GMT)</span>
-
 ### Encoding Cultural Resources
 
 [The Japanese Association for Digital Humanities](http://www.jadh.org/)
@@ -61,7 +59,7 @@ School of Humanities and Sociology, The University of Tokyo
 ### Supported by 
 
  * Kyoto University Research Administration Offices
-
+ * The Kyoto University Foundation 
 <!--
 ### Co-sponsored by:
 
