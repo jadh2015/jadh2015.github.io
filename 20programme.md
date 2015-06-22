@@ -11,20 +11,23 @@ travel planning.
 Conference schedule
 
 Tue, Sep. 1, 2015
--  Registration and Helpdesk 9:00 - 18:00
--  Pre-conference workshops  9:30 - 17:00
--  Public opening lecture   17:30
+
+ -  Registration and Helpdesk 9:00 - 18:00
+ -  Pre-conference workshops  9:30 - 17:00
+ -  Public opening lecture   17:30
 
 Tue, Sep. 2, 2015
--  Registration and Helpdesk 9:00 - 18:00
--  Opening                   9:15
--  Session presentations, plenary lecture and poster session  9:30 - 17:30
--  Conference Banquet       18:00
+
+ -  Registration and Helpdesk 9:00 - 18:00
+ -  Opening                   9:15
+ -  Session presentations, plenary lecture and poster session  9:30 - 17:30
+ -  Conference Banquet       18:00
   
 Tue, Sep. 3, 2015  
--  Registration and Helpdesk 9:00 - 17:00
--  Session presentations and plenary lecture  9:30 - 17:00
--  Closing                  17:00 - 17:30
+
+ -  Registration and Helpdesk 9:00 - 17:00
+ -  Session presentations and plenary lecture  9:30 - 17:00
+ -  Closing                  17:00 - 17:30
   
 
 <div id="posts">
