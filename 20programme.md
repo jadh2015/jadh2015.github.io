@@ -4,14 +4,28 @@ title: Program
 permalink: /program/
 ---
 
-Program (to be announced)
+While we are waiting for a more detailed outline of the programme,
+here is a rough sketch of the overall structure to aid you in the
+travel planning.
 
-The program will consist of a pre-conference workshop to be held on
-Sep. 1st and two days of academic paper and poster presentations as
-well as keynote lectures on Sep 2 and 3. 
+Conference schedule
 
-Details will be posted in June.
+Tue, Sep. 1, 2015
+  Registration and Helpdesk 9:00 - 18:00
+  Pre-conference workshops  9:30 - 17:00
+  Public opening lecture   17:30
 
+Tue, Sep. 2, 2015
+  Registration and Helpdesk 9:00 - 18:00
+  Opening                   9:15
+  Session presentations, plenary lecture and poster session  9:30 - 17:30
+  Conference Banquet       18:00
+  
+Tue, Sep. 3, 2015  
+  Registration and Helpdesk 9:00 - 17:00
+  Session presentations and plenary lecture  9:30 - 17:00
+  Closing                  17:00 - 17:30
+  
 
 <div id="posts">
   <ul>
