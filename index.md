@@ -71,10 +71,10 @@ School of Humanities and Sociology, The University of Tokyo
 [[Home](http://www.jaet.gr.jp/index.html)]
  * Japan Association for English Corpus Studies 
 [[Home](http://jaecs.com)]
-
-<!--
  * The Mathematical Linguistic Society of Japan
 [[Home](http://www.math-ling.org/e-index.html)]
+
+<!--
  * Japan Association for the Contemporary and Applied Philosophy
 [[Home](https://sites.google.com/site/jacapweb/)]
  * Japan Society of Library and Information Science (JSLIS)
