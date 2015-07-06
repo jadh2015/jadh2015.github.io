@@ -6,6 +6,8 @@ permalink: /program/
 
 # JADH2015 Conference Programme
 
+last updated: 2015-07-06T11:25:56+0900
+
 <table border="1" cellspacing="0" cellpadding="0" class="ta1"><colgroup><col/><col/><col/><col/><col/><col/></colgroup>
 	      <tr class="ro3"><td style="text-align:left;" class="ce3">
             <p>Wednesday, 2 September</p>
