@@ -6,7 +6,7 @@ permalink: /program/
 
 # JADH2015 Conference Programme
 
-            <table border="1" cellspacing="0" cellpadding="0" class="ta1"><colgroup><col/><col/><col/><col/><col/><col/></colgroup>
+<table border="1" cellspacing="0" cellpadding="0" class="ta1"><colgroup><col/><col/><col/><col/><col/><col/></colgroup>
 	      <tr class="ro3"><td style="text-align:left;" class="ce3">
             <p>Wednesday, 2 September</p>
            </td><td style="text-align:left;" class="ce8"> </td><td style="text-align:left;" class="ce8"> </td><td style="text-align:left;" class="ce8"> </td><td style="text-align:left;" class="ce33"> </td><td style="text-align:left;" class="ce41"> </td></tr><tr class="ro3"><td style="text-align:left;" class="ce4"> </td><td style="text-align:right; " class="ce9">
