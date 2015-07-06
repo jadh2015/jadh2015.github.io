@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: reg
 title: Program
 permalink: /program/
 ---
