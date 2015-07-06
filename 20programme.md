@@ -4,10 +4,8 @@ title: Program
 permalink: /program/
 ---
 
-<html>
-<body dir="ltr" style="max-width:210.01mm;margin-top:20mm; margin-bottom:20mm; margin-left:20mm; margin-right:20mm; writing-mode:lr-tb; writing-mode:lr-tb; ">
-            <p>JADH2015 Conference Programme</p>
-         
+# JADH2015 Conference Programme
+
             <table border="1" cellspacing="0" cellpadding="0" class="ta1"><colgroup><col/><col/><col/><col/><col/><col/></colgroup>
 	      <tr class="ro3"><td style="text-align:left;" class="ce3">
             <p>Wednesday, 2 September</p>
@@ -250,4 +248,3 @@ permalink: /program/
            </td><td style="text-align:left;" class="ce31"> </td><td style="text-align:left;" class="ce40"> </td><td style="text-align:left;" class="ce46"> </td></tr></table>
          
         
-</body></html>
