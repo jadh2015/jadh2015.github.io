@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Poster for conference available now"
+date:   2015-07-14 13:57:49
+categories: news
+---
+
+The poster / flyer for the conference is ready and already in print.
+You can download the PDF here and print it yourself as well!
+
+<a href="images/JADH2015_poster.pdf"><img src="images/JADH2015_poster.png"/></a>
+
+
+
