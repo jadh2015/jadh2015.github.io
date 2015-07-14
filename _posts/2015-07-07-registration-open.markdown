@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Registration is open now"
-date:   2015-07-14 9:57:49
+date:   2015-07-07 9:57:49
 categories: news
 ---
 
