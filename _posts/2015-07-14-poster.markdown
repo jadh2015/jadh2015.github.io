@@ -8,7 +8,7 @@ categories: news
 The poster / flyer for the conference is ready and already in print.
 You can download the PDF here and print it yourself as well!
 
-<a href="images/JADH2015_poster.pdf"><img src="images/JADH2015_poster.png"/></a>
+<a href="{{ site.baseurl }}/images/JADH2015_poster.pdf"><img src="{{ site.baseurl }}/images/JADH2015_poster.png"/></a>
 
 
 
