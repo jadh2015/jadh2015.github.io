@@ -5,32 +5,30 @@ layout: default
 ### Encoding Cultural Resources
 
 [The Japanese Association for Digital Humanities](http://www.jadh.org/)
-is pleased to announce its fifth annual conference, to be held at the
+is holding its fifth annual conference at the
 [Insitute for Research in Humanities](http://www.zinbun.kyoto-u.ac.jp/e/institute/access-institute/access_e.htm),
 Kyoto University, Japan, September 1-3,
 2015. 
 
-While the digitization of cultural resources has been widely carried
-out in Japan, it has been of only the most prized treasures and
-providing basic metadata rather than full-text encoding of a wider
-range of cultural resources. This situation has come about due to
-several environmental difficulties, including issues of compatibility
-of character encoding, lack of characters in the available character
-encoding standards, weak IT literacy of humanities scholars,
-and so on. However, because the environment for encoding various
-cultural resources has gradually been improving, several projects have
-begun to more deeply encode their resources. 
+### News:
 
-The aim of this conference is to encourage and support this trend. By
-so doing, we hope to contribute to the spread of the application of
-encoding in various stages and the critical engagement with digital
-resources in the Humanities.
+<div class="home">
 
-#### Important dates:
-	- Call for papers deadline:  May 7th, 2015 --> May 18th, 2015 23:59(GMT)
-	- Notification of acceptance:  May 30th, 2015 (late submitters will be notified in the middle of June 2015)
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-See ["Call for Papers"]({{ site.baseurl }}call) for details.
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
 
 ### Hosted by:
 
