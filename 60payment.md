@@ -54,6 +54,3 @@ permalink: /payment/
 </form>
 
 
-
-
-The fees for banquet and workshops to be announced.
