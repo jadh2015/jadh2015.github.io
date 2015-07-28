@@ -6,12 +6,39 @@ permalink: /program/
 
 # JADH2015 Conference Programme
 
-last updated: 2015-07-06T11:25:56+0900
+last updated: 2015-07-28
 
-<table border="1" cellspacing="0" cellpadding="0" class="ta1"><colgroup><col/><col/><col/><col/><col/><col/></colgroup>
-	      <tr class="ro3"><td style="text-align:left;" class="ce3">
-            <p>Wednesday, 2 September</p>
-           </td><td style="text-align:left;" class="ce8"> </td><td style="text-align:left;" class="ce8"> </td><td style="text-align:left;" class="ce8"> </td><td style="text-align:left;" class="ce33"> </td><td style="text-align:left;" class="ce41"> </td></tr><tr class="ro3"><td style="text-align:left;" class="ce4"> </td><td style="text-align:right; " class="ce9">
+ * [Tuesday, September 1](#day1)
+
+ * [Wednesday, September 2](#day2)
+
+ * [Thursday, September 3](#day3)
+
+
+### <a name="day1"></a>Tuesday, September 1
+
+<table border="1" cellspacing="0" cellpadding="0" class="ta1">
+<tr class="ro3"><td style="text-align:left;" class="ce4"> </td><td style="text-align:right; " class="ce9">
+            <p>10:00 - 17:00 </p>
+           </td><td style="text-align:left;" class="ce18">
+            <p><a href="{{ site.baseurl }}/workshops/#ws2">TEI Workshop 2015 (in Japanese) </a></p>
+           </td><td style="text-align:left;" class="ce19">Kiyonori Nagasaki</td></tr>
+<tr class="ro3"><td style="text-align:left;" class="ce4"> </td><td style="text-align:right; " class="ce9">
+            <p>13:00 - 17:00 </p>
+           </td><td style="text-align:left;" class="ce18">
+            <p><a href="{{ site.baseurl }}/workshops/#ws1">Workshop: Old Photo Hunting in Kyoto </a></p>
+           </td><td style="text-align:left;" class="ce19">Asanobu Kitamoto</td></tr>
+<tr class="ro3"><td style="text-align:left;" class="ce4"> </td><td style="text-align:right; " class="ce9">
+            <p>17:00 - 18:30 </p>
+           </td><td style="text-align:left;" class="ce18">
+            <p><a href="{{ site.baseurl }}/abstracts/#pl1">Public Lecture (free) </a></p>
+           </td><td style="text-align:left;" class="ce19">Pip Wilcox (Bodleian Library, University of Oxford)</td></tr>
+</table>		   
+
+### <a name="day2"></a>Wednesday, September 2
+
+<table border="1" cellspacing="0" cellpadding="0" class="ta1">
+<tr class="ro3"><td style="text-align:left;" class="ce4"> </td><td style="text-align:right; " class="ce9">
             <p>09:00</p>
            </td><td style="text-align:left;" class="ce18">
             <p>Registration</p>
@@ -134,9 +161,15 @@ in Classical Japanese Poetry, 10th Century.</p>
             <p>18:00</p>
            </td><td style="text-align:left;" class="ce23">
             <p>Banquet</p>
-           </td><td style="text-align:left;" class="ce29"> </td><td style="text-align:left;" class="ce39"> </td><td style="text-align:left;" class="ce46"> </td></tr><tr class="ro3"><td style="text-align:left;" class="ce3">
-            <p>Thursday, 3 September</p>
-           </td><td style="text-align:left;" class="ce8"> </td><td style="text-align:left;" class="ce8"> </td><td style="text-align:left;" class="ce30"> </td><td style="text-align:left;" class="ce33"> </td><td style="text-align:left;" class="ce41"> </td></tr><tr class="ro3"><td style="text-align:left;" class="ce4"> </td><td style="text-align:right; " class="ce13">
+           </td><td style="text-align:left;" class="ce29"> </td><td style="text-align:left;" class="ce39"> </td><td style="text-align:left;" class="ce46"> </td></tr>
+		   </table>
+
+
+### <a name="day3"></a>Thursday, September 3
+
+
+<table border="1" cellspacing="0" cellpadding="0" class="ta1">
+		   <tr class="ro3"><td style="text-align:left;" class="ce4"> </td><td style="text-align:right; " class="ce13">
             <p>09:30</p>
            </td><td style="text-align:left;" class="ce22">
             <p>Session 4: Data Analysis</p>
