@@ -127,8 +127,8 @@ last updated: 2015-07-28
            </td><td style="text-align:left;" class="ce25"> </td><td style="text-align:left;" class="ce34"> </td><td style="text-align:left;" class="ce42"> </td></tr><tr class="ro5"><td style="text-align:left;" class="ce4"> </td><td style="text-align:right; " class="ce9">
             <p>15:35</p>
            </td><td style="text-align:left;" class="ce22">
-            <p>Plenary Lecture 1: TBA</p>
-           </td><td style="text-align:left;" class="ce25"> </td><td style="text-align:left;" class="ce34"> </td><td style="text-align:left;" class="ce42"> </td></tr><tr class="ro3"><td style="text-align:left;" class="ce4"> </td><td style="text-align:right; " class="ce9">
+            <p>Plenary Lecture 1:</p>
+           </td><td style="text-align:left;" class="ce25">The Craft of XML</td><td style="text-align:left;" class="ce34"> </td><td style="text-align:left;" class="ce42">Wendell Piez</td></tr><tr class="ro3"><td style="text-align:left;" class="ce4"> </td><td style="text-align:right; " class="ce9">
             <p>16:35</p>
            </td><td style="text-align:left;" class="ce18">
             <p>Break</p>
@@ -241,8 +241,9 @@ in Classical Japanese Poetry, 10th Century.</p>
            </td><td style="text-align:left;" class="ce25"> </td><td style="text-align:left;" class="ce34"> </td><td style="text-align:left;" class="ce42"> </td></tr><tr class="ro5"><td style="text-align:left;" class="ce4"> </td><td style="text-align:right; " class="ce9">
             <p>14:00</p>
            </td><td style="text-align:left;" class="ce22">
-            <p>Plenary Lecture 2: TBA</p>
-           </td><td style="text-align:left;" class="ce25"> </td><td style="text-align:left;" class="ce34"> </td><td style="text-align:left;" class="ce42"> </td></tr><tr class="ro3"><td style="text-align:left;" class="ce4"> </td><td style="text-align:right; " class="ce9">
+            <p>Plenary Lecture 2:</p>
+           </td><td style="text-align:left;" class="ce25">The text is not the map: using conceptual
+modelling to understand the non-mappable aspects of narrative</td><td style="text-align:left;" class="ce34"></td><td style="text-align:left;" class="ce42">Øyvind Eide</td></tr><tr class="ro3"><td style="text-align:left;" class="ce4"> </td><td style="text-align:right; " class="ce9">
             <p>15:00</p>
            </td><td style="text-align:left;" class="ce18">
             <p>Break</p>
