@@ -185,7 +185,7 @@ in Classical Japanese Poetry, 10th Century.</p>
            </td><td style="text-align:left;" class="ce37">
             <p>SP</p>
            </td><td style="text-align:left;" class="ce43">
-            <p>Shinya Saito</p>
+            <p>Shinya Saito, Keiko Suzuki</p>
            </td></tr><tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce14"> </td><td style="text-align:left;" class="ce19"> </td><td style="text-align:left;" class="ce27">
             <p>The Rise of Islamic Reformism in the Seventeenth and Eighteenth Centuries: Scholarly Network Analysis and Visualization with Gephi</p>
            </td><td style="text-align:left;" class="ce37">
@@ -199,7 +199,7 @@ in Classical Japanese Poetry, 10th Century.</p>
            </td><td style="text-align:left;" class="ce47">
             <p>Eveline Wandl-Vogt</p>
             <p>Megumi Kurobe</p>
-            <p>Chitsuko Fukoshima</p>
+            <p>Chitsuko Fukushima</p>
             <p>Thierry Declerck</p>
             <p>Heimo Rainer</p>
            </td></tr><tr class="ro3"><td style="text-align:left;" class="ce4"> </td><td style="text-align:right; " class="ce9">
@@ -242,8 +242,7 @@ in Classical Japanese Poetry, 10th Century.</p>
             <p>14:00</p>
            </td><td style="text-align:left;" class="ce22">
             <p>Plenary Lecture 2:</p>
-           </td><td style="text-align:left;" class="ce25">The text is not the map: using conceptual
-modelling to understand the non-mappable aspects of narrative</td><td style="text-align:left;" class="ce34"></td><td style="text-align:left;" class="ce42">Øyvind Eide</td></tr><tr class="ro3"><td style="text-align:left;" class="ce4"> </td><td style="text-align:right; " class="ce9">
+           </td><td style="text-align:left;" class="ce25">The Text is Not the Map -- Using Conceptual Modelling to Understand the Non-Mappable Aspects of Narrative</td><td style="text-align:left;" class="ce34"></td><td style="text-align:left;" class="ce42">Øyvind Eide</td></tr><tr class="ro3"><td style="text-align:left;" class="ce4"> </td><td style="text-align:right; " class="ce9">
             <p>15:00</p>
            </td><td style="text-align:left;" class="ce18">
             <p>Break</p>
