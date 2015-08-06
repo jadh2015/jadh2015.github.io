@@ -89,7 +89,7 @@ last updated: 2015-07-28
            </td><td style="text-align:left;" class="ce43">
             <p>Mao Sugiyama</p>
            </td></tr><tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce10"> </td><td style="text-align:left;" class="ce21"> </td><td style="text-align:left;" class="ce27">
-            <p>A Digital Humanities Analysis of Christianity in the Fiction of the 19th-Century British Authors</p>
+            <p>An Effect-Size Analysis of Christianity in the 19th- Century British Novels</p>
            </td><td style="text-align:left;" class="ce37">
             <p>LP</p>
            </td><td style="text-align:left;" class="ce43">
@@ -174,12 +174,13 @@ in Classical Japanese Poetry, 10th Century.</p>
            </td><td style="text-align:left;" class="ce22">
             <p>Session 4: Data Analysis</p>
            </td><td style="text-align:left;" class="ce25"> </td><td style="text-align:left;" class="ce34"> </td><td style="text-align:left;" class="ce42"> </td></tr><tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce14"> </td><td style="text-align:left;" class="ce19"> </td><td style="text-align:left;" class="ce27">
-            <p>Image Processing of Historical Manuscripts: Handwriting Chinese Character Search Algorithm</p>
+            <p>Image Processing for Historical Manuscripts: Character Search on Chinese Handwriting Images</p>
            </td><td style="text-align:left;" class="ce37">
             <p>SP</p>
            </td><td style="text-align:left;" class="ce44">
             <p>Yun-Cheng Tsai</p>
             <p>Hou-Ieong Ho</p>
+            <p>Shih-Pei Chen</p>
            </td></tr><tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce14"> </td><td style="text-align:left;" class="ce19"> </td><td style="text-align:left;" class="ce27">
             <p>Development of a Data-visualization Tool for Ukiyo-e Analysis: A Case Study of Otohime</p>
            </td><td style="text-align:left;" class="ce37">
