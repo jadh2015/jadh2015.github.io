@@ -11,8 +11,7 @@ method="post">
 <input type="hidden" name="hosted_button_id" value="AT2WQFMU34UYQ">
 <table>
 <tr><td><input type="hidden" name="on0" value="Conference
-participation fee (Early by 31 July)">Conference participation fee
-(Early by 31 July)</td></tr><tr><td><select name="os0">
+participation fee">Conference participation fee</td></tr><tr><td><select name="os0">
 <option value="ADHO Member">ADHO Member ¥8,000 JPY</option>
 <option value="ADHO student member">ADHO student member ¥3,000 JPY</option>
 <option value="Non-ADHO member">Non-ADHO member ¥20,000 JPY</option>
