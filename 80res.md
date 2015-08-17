@@ -3,7 +3,7 @@ layout: page
 title: Abstracts
 permalink: /abstracts/
 ---
-
+<p>Download book of abstracts:  [<a href="{{ site.baseurl }}/images/jadh2015abstracts-ebook.pdf">PDF (3.3MB)</a>]  [<a href="{{ site.baseurl }}/images/JADH 2015_Encoding_Cultural_Resources.epub">ePub (6.2 MB)</a>] </p>
 <ul class="toc toc_body"><li class="toc"><a href="#index.xml-body.1_div.3">Opening Public Lecture Pip Willcox: “Gentle breath of yours my sails/ Must fill, or else my project fails”:<span class="T4">1 </span><span class="T3">Tales of the Bodleian First Folio </span></a><ul
 class="toc"></ul></li>
 <li class="toc"><a class="P67" href="#index.xml-body.1_div.5"
