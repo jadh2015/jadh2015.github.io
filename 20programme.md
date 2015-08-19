@@ -283,13 +283,8 @@ Cultural Map for the Corporeal Language in the Modern Era</p>
 <p>15:20</p>
 </td><td style="text-align:left;" class="ce20">
 <p>Session 6: Research Infrastructures</p>
-</td><td style="text-align:left;" class="ce25"> </td><td style="text-align:left;" class="ce34"> </td><td style="text-align:left;" class="ce42"> </td></tr><tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce14"> </td><td style="text-align:left;" class="ce19"> </td><td style="text-align:left;" class="ce27">
-<p><a class="P68" href="{{ site.baseurl }}/abstracts/#index.xml-body.1_div.26">Negotiating Digital Collaboration:  The Case of the Sakamaki/Hawley Collection at the University of Hawaii at Manoa Library and the University of the Ryukyus Library</a></p>
-</td><td style="text-align:left;" class="ce37">
-<p>SP</p>
-</td><td style="text-align:left;" class="ce43">
-<p>Jennifer Beamer</p>
-</td></tr><tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce14"> </td><td style="text-align:left;" class="ce19"> </td><td style="text-align:left;" class="ce27">
+</td><td style="text-align:left;" class="ce25"> </td><td style="text-align:left;" class="ce34"> </td><td style="text-align:left;" class="ce42"> </td></tr>
+<tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce14"> </td><td style="text-align:left;" class="ce19"> </td><td style="text-align:left;" class="ce27">
 <p><a class="P68" href="{{ site.baseurl }}/abstracts/#index.xml-body.1_div.27">How to Innovate Lexicography by Means of Research Infrastructures: The European Example of DARIAH</a></p>
 </td><td style="text-align:left;" class="ce37">
 <p>LP</p>
@@ -307,6 +302,7 @@ Cultural Map for the Corporeal Language in the Modern Era</p>
 </td><td style="text-align:left;" class="ce37">
 <p>LP</p>
 </td><td style="text-align:left;" class="ce44">
+<p>Agnieszka Indyka-Piasecka</p>
 <p>Maciej Piasecki; Marcin Pol</p>
 <p>Tomasz Walkowiak</p>
 </td></tr><tr class="ro10"><td style="text-align:left;" class="ce5"> </td><td style="text-align:left;" class="ce17">
