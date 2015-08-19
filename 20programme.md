@@ -132,12 +132,14 @@ last updated: 2015-07-28
 <p>16:35</p>
 </td><td style="text-align:left;" class="ce18">
 <p>Break</p>
-</td><td style="text-align:left;" class="ce25"> </td><td style="text-align:left;" class="ce34"> </td><td style="text-align:left;" class="ce42"> </td></tr><tr class="ro6"><td style="text-align:left;" class="ce4"> </td><td rowspan="4" style="text-align:left;" class="ce11">
+</td><td style="text-align:left;" class="ce25"> </td><td style="text-align:left;" class="ce34"> </td><td style="text-align:left;" class="ce42"> </td></tr>
+<tr class="ro6"><td style="text-align:left;" class="ce4"> </td><td rowspan="8" style="text-align:left;" class="ce11">
 <p>16:45-</p>
 <p>17:30</p>
 </td><td style="text-align:left;" class="ce22">
 <p>Poster/Demo Session</p>
-</td><td style="text-align:left;" class="ce25"> </td><td style="text-align:left;" class="ce34"> </td><td style="text-align:left;" class="ce42"> </td></tr><tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce19"> </td><td style="text-align:left;" class="ce24">
+</td><td style="text-align:left;" class="ce25"> </td><td style="text-align:left;" class="ce34"> </td><td style="text-align:left;" class="ce42"> </td></tr>
+<tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce19"> </td><td style="text-align:left;" class="ce24">
 <p><a class="P68" href="{{ site.baseurl }}/abstracts/#index.xml-body.1_div.16">The Differences of Connotations between Two flowers, Plum and Cherry,
 in Classical Japanese Poetry, 10th Century.</a></p>
 </td><td style="text-align:left;" class="ce35">
@@ -157,7 +159,37 @@ in Classical Japanese Poetry, 10th Century.</a></p>
 </td><td style="text-align:left;" class="ce45">
 <p>Aya Kanzawa; Akihiro Kawase</p>
 <p>Hajime Murai; Takehiro Inohara</p>
-</td></tr><tr class="ro7"><td style="text-align:left;" class="ce5"> </td><td style="text-align:right; " class="ce12">
+</td></tr>
+<tr class="ro4"><td></td>
+<td style="text-align:left;" class="ce22">
+<p>Additional Demonstrations</p>
+</td></tr>
+<tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce19"> </td><td style="text-align:left;" class="ce24">
+<p>MemoryHunt: A Mobile App with an Active Viewfinder
+for Crowdsourced Annotation through the Re-experience of the
+Photographer</p>
+</td><td style="text-align:left;" class="ce35">
+<p>AD</p>
+</td><td style="text-align:left;" class="ce43">
+<p>Asanobu Kitamoto</p>
+</td></tr>
+<tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce19"> </td><td style="text-align:left;" class="ce24">
+<p>Visual Representation of the Body and East
+Asian Modernity: Some Fundamentals of Digital Visual Archive and
+Cultural Map for the Corporeal Language in the Modern Era</p>
+</td><td style="text-align:left;" class="ce35">
+<p>AD</p>
+</td><td style="text-align:left;" class="ce43">
+<p>Sung-do Kim; Minhyoung Kim</p>
+</td></tr>
+<tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce19"> </td><td style="text-align:left;" class="ce24">
+<p>Open Stylometric System based on Multilevel Text Analysis</p>
+</td><td style="text-align:left;" class="ce35">
+<p>AD</p>
+</td><td style="text-align:left;" class="ce43">
+<p>Maciej Eder; Maciej Piasecki, Tomasz Walkowiak</p>
+</td></tr>
+<tr class="ro7"><td style="text-align:left;" class="ce5"> </td><td style="text-align:right; " class="ce12">
 <p>18:00</p>
 </td><td style="text-align:left;" class="ce23">
 <p>Banquet</p>
