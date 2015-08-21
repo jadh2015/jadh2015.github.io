@@ -6,7 +6,7 @@ permalink: /venue/
 
 The conference will be held in the Main Building of the Institute for
 Research in Humanities.  The rooms we will use are accessed from the
-entrance to the south of the main entrance as indicated on the map:
+entrance to the south of the main entrance as indicated on the following map ([Here is also a link to a Google Map of this location](https://www.google.com/maps/dir//35.0279768,135.7826178/@35.0279614,135.7825936,18z/data=!4m2!4m1!3e0):
 
 ![Campus Map]({{ site.baseurl }}/images/honkan_e_middle.jpg )
 
