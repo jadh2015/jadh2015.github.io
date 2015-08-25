@@ -317,6 +317,6 @@ Cultural Map for the Corporeal Language in the Modern Era</p>
 <p>17:30</p>
 </td><td style="text-align:left;" class="ce23">
 <p>Closing</p>
-</td><td style="text-align:left;" class="ce31"> </td><td style="text-align:left;" class="ce40"> </td><td style="text-align:left;" class="ce46"> </td></tr></table>
+</td><td style="text-align:left;" class="ce31">Closing Remarks</td><td style="text-align:left;" class="ce40"> </td><td style="text-align:left;" class="ce46">Harold Short</td></tr></table>
          
         
