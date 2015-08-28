@@ -243,7 +243,7 @@ Cultural Map for the Corporeal Language in the Modern Era</p>
 <p>11:05</p>
 </td><td style="text-align:left;" class="ce18">
 <p>Session 5: Textual Analysis (2)</p>
-</td><td style="text-align:left;" class="ce26"> </td><td style="text-align:left;" class="ce36"> </td><td style="text-align:left;" class="ce42"> </td></tr><tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce14"> </td><td style="text-align:left;" class="ce19"> </td><td style="text-align:left;" class="ce27">
+</td><td style="text-align:left;" class="ce26">Chair: Maki Miyake</td><td style="text-align:left;" class="ce36"> </td><td style="text-align:left;" class="ce42"> </td></tr><tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce14"> </td><td style="text-align:left;" class="ce19"> </td><td style="text-align:left;" class="ce27">
 <p><a class="P68" href="{{ site.baseurl }}/abstracts/#index.xml-body.1_div.23">Time-series Methods in Language Corpora Analysis: Cross-correlation as an exploratory tool of multiple lexical series</a></p>
 </td><td style="text-align:left;" class="ce37">
 <p>SP</p>
