@@ -138,7 +138,7 @@ last updated: 2015-07-28
 <p>17:30</p>
 </td><td style="text-align:left;" class="ce22">
 <p>Poster/Demo Session</p>
-</td><td style="text-align:left;" class="ce25">Poster Slam<br/>Chair: A. Charles Muller</td><td style="text-align:left;" class="ce34"></td><td style="text-align:left;" class="ce42"> </td></tr>
+</td><td style="text-align:left;" class="ce25"><b>16:45</b> Poster Slam<br/>Chair: A. Charles Muller</td><td style="text-align:left;" class="ce34"></td><td style="text-align:left;" class="ce42"> </td></tr>
 <tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce19"> </td><td style="text-align:left;" class="ce24">
 <p><a class="P68" href="{{ site.baseurl }}/abstracts/#index.xml-body.1_div.16">The Differences of Connotations between Two flowers, Plum and Cherry,
 in Classical Japanese Poetry, 10th Century.</a></p>
