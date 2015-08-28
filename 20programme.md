@@ -31,7 +31,7 @@ last updated: 2015-07-28
 <tr class="ro3"><td style="text-align:left;" class="ce4"> </td><td style="text-align:right; " class="ce9">
 <p>17:00 - 18:30 </p>
 </td><td style="text-align:left;" class="ce18">
-<p><a href="{{ site.baseurl }}/abstracts/#index.xml-body.1_div.3">Public Lecture (free) </a></p>
+<p><a href="{{ site.baseurl }}/abstracts/#index.xml-body.1_div.3">Public Lecture (free) <br/>Chair: A. Charles Muller</a></p>
 </td><td style="text-align:left;" class="ce19">Pip Willcox (Bodleian Library, University of Oxford)</td></tr>
 </table>		   
 
@@ -50,7 +50,7 @@ last updated: 2015-07-28
 <p>09:30</p>
 </td><td style="text-align:left;" class="ce18">
 <p>Session 1: Structuring Data</p>
-</td><td style="text-align:left;" class="ce19"> </td><td style="text-align:left;" class="ce34"> </td><td style="text-align:left;" class="ce42"> </td></tr><tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce10"> </td><td style="text-align:left;" class="ce19"> </td><td style="text-align:left;" class="ce24">
+</td><td style="text-align:left;" class="ce19">Chair: Akihiro Kawase</td><td style="text-align:left;" class="ce34"></td><td style="text-align:left;" class="ce42"></td></tr><tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce10"> </td><td style="text-align:left;" class="ce19"> </td><td style="text-align:left;" class="ce24">
 <p><a href="{{ site.baseurl }}/abstracts/#index.xml-body.1_div.7">MemoryHunt: A Mobile App with an Active Viewfinder for Crowdsourced Annotation through the Re-experience of the Photographer</a></p>
 </td><td style="text-align:left;" class="ce35">
 <p>LP</p>
@@ -76,7 +76,7 @@ last updated: 2015-07-28
 <p>11:20</p>
 </td><td style="text-align:left;" class="ce20">
 <p>Session 2: Textual Analysis (1)</p>
-</td><td style="text-align:left;" class="ce26"> </td><td style="text-align:left;" class="ce36"> </td><td style="text-align:left;" class="ce42"> </td></tr><tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce10"> </td><td style="text-align:left;" class="ce21"> </td><td style="text-align:left;" class="ce27">
+</td><td style="text-align:left;" class="ce26">Chair: Asanobu Kitamoto</td><td style="text-align:left;" class="ce36"> </td><td style="text-align:left;" class="ce42"> </td></tr><tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce10"> </td><td style="text-align:left;" class="ce21"> </td><td style="text-align:left;" class="ce27">
 <p><a class="P68" href="{{ site.baseurl }}/abstracts/#index.xml-body.1_div.10">Towards Automatic Extraction of Punch-lines: Plot Analysis of Shinichi Hoshi’s Flash fictions</a></p>
 </td><td style="text-align:left;" class="ce37">
 <p>SP</p>
@@ -102,7 +102,7 @@ last updated: 2015-07-28
 <p>14:00</p>
 </td><td style="text-align:left;" class="ce22">
 <p>Session 3: Culture and Digital Media</p>
-</td><td style="text-align:left;" class="ce25"> </td><td style="text-align:left;" class="ce34"> </td><td style="text-align:left;" class="ce42"> </td></tr><tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce10"> </td><td style="text-align:left;" class="ce19"> </td><td style="text-align:left;" class="ce24">
+</td><td style="text-align:left;" class="ce25">Chair: Hajime Murai</td><td style="text-align:left;" class="ce34"> </td><td style="text-align:left;" class="ce42"> </td></tr><tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce10"> </td><td style="text-align:left;" class="ce19"> </td><td style="text-align:left;" class="ce24">
 <p><a class="P68" href="{{ site.baseurl }}/abstracts/#index.xml-body.1_div.13">The Dual Materiality of Typewriters in Digital Culture</a></p>
 </td><td style="text-align:left;" class="ce35">
 <p>SP</p>
@@ -128,7 +128,7 @@ last updated: 2015-07-28
 <p>15:35</p>
 </td><td style="text-align:left;" class="ce22">
 <p>Plenary Lecture 1:</p>
-</td><td style="text-align:left;" class="ce25"><a href="{{ site.baseurl }}/abstracts/#index.xml-body.1_div.5">The Craft of XML</a></td><td style="text-align:left;" class="ce34"> </td><td style="text-align:left;" class="ce42">Wendell Piez</td></tr><tr class="ro3"><td style="text-align:left;" class="ce4"> </td><td style="text-align:right; " class="ce9">
+</td><td style="text-align:left;" class="ce25"><a href="{{ site.baseurl }}/abstracts/#index.xml-body.1_div.5">The Craft of XML</a><br/>Chair: A. Charles Muller</td><td style="text-align:left;" class="ce34"> </td><td style="text-align:left;" class="ce42">Wendell Piez</td></tr><tr class="ro3"><td style="text-align:left;" class="ce4"> </td><td style="text-align:right; " class="ce9">
 <p>16:35</p>
 </td><td style="text-align:left;" class="ce18">
 <p>Break</p>
@@ -138,7 +138,7 @@ last updated: 2015-07-28
 <p>17:30</p>
 </td><td style="text-align:left;" class="ce22">
 <p>Poster/Demo Session</p>
-</td><td style="text-align:left;" class="ce25"> </td><td style="text-align:left;" class="ce34"> </td><td style="text-align:left;" class="ce42"> </td></tr>
+</td><td style="text-align:left;" class="ce25">Poster Slam<br/>Chair: A. Charles Muller</td><td style="text-align:left;" class="ce34"></td><td style="text-align:left;" class="ce42"> </td></tr>
 <tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce19"> </td><td style="text-align:left;" class="ce24">
 <p><a class="P68" href="{{ site.baseurl }}/abstracts/#index.xml-body.1_div.16">The Differences of Connotations between Two flowers, Plum and Cherry,
 in Classical Japanese Poetry, 10th Century.</a></p>
@@ -205,7 +205,7 @@ Cultural Map for the Corporeal Language in the Modern Era</p>
 <p>09:30</p>
 </td><td style="text-align:left;" class="ce22">
 <p>Session 4: Data Analysis</p>
-</td><td style="text-align:left;" class="ce25"> </td><td style="text-align:left;" class="ce34"> </td><td style="text-align:left;" class="ce42"> </td></tr><tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce14"> </td><td style="text-align:left;" class="ce19"> </td><td style="text-align:left;" class="ce27">
+</td><td style="text-align:left;" class="ce25">Chair: Tomoji Tabata</td><td style="text-align:left;" class="ce34"> </td><td style="text-align:left;" class="ce42"> </td></tr><tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce14"> </td><td style="text-align:left;" class="ce19"> </td><td style="text-align:left;" class="ce27">
 <p><a class="toc toc_0" href="{{ site.baseurl }}/abstracts/#index.xml-body.1_div.19">Image Processing for Historical Manuscripts: Character Search on Chinese Handwriting Images</a></p>
 </td><td style="text-align:left;" class="ce37">
 <p>SP</p>
@@ -275,7 +275,7 @@ Cultural Map for the Corporeal Language in the Modern Era</p>
 <p>14:00</p>
 </td><td style="text-align:left;" class="ce22">
 <p>Plenary Lecture 2:</p>
-</td><td style="text-align:left;" class="ce25"><a class="P69" href="{{ site.baseurl }}/abstracts/#index.xml-body.1_div.6">The Text is Not the Map -- Using Conceptual Modelling to Understand the Non-Mappable Aspects of Narrative</a></td><td style="text-align:left;" class="ce34"></td><td style="text-align:left;" class="ce42">Øyvind Eide</td></tr><tr class="ro3"><td style="text-align:left;" class="ce4"> </td><td style="text-align:right; " class="ce9">
+</td><td style="text-align:left;" class="ce25"><a class="P69" href="{{ site.baseurl }}/abstracts/#index.xml-body.1_div.6">The Text is Not the Map -- Using Conceptual Modelling to Understand the Non-Mappable Aspects of Narrative</a><br/>Chair: Christian Wittern</td><td style="text-align:left;" class="ce34"></td><td style="text-align:left;" class="ce42">Øyvind Eide</td></tr><tr class="ro3"><td style="text-align:left;" class="ce4"> </td><td style="text-align:right; " class="ce9">
 <p>15:00</p>
 </td><td style="text-align:left;" class="ce18">
 <p>Break</p>
@@ -283,7 +283,7 @@ Cultural Map for the Corporeal Language in the Modern Era</p>
 <p>15:20</p>
 </td><td style="text-align:left;" class="ce20">
 <p>Session 6: Research Infrastructures</p>
-</td><td style="text-align:left;" class="ce25"> </td><td style="text-align:left;" class="ce34"> </td><td style="text-align:left;" class="ce42"> </td></tr>
+</td><td style="text-align:left;" class="ce25">Chair: Toru Tomabechi</td><td style="text-align:left;" class="ce34"> </td><td style="text-align:left;" class="ce42"> </td></tr>
 <tr class="ro4"><td style="text-align:left;" class="ce4"> </td><td style="text-align:left;" class="ce14"> </td><td style="text-align:left;" class="ce19"> </td><td style="text-align:left;" class="ce27">
 <p><a class="P68" href="{{ site.baseurl }}/abstracts/#index.xml-body.1_div.26"><del>Negotiating Digital Collaboration:  The Case of the Sakamaki/Hawley Collection at the University of Hawaii at Manoa Library and the University of the Ryukyus Library</del></a></p>
 </td><td style="text-align:left;" class="ce37">
