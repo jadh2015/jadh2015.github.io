@@ -20,5 +20,5 @@ The "Poster slam" starts at 16:50, **where poster and demonstration presenters w
 
 ## Wi-Fi System
 
-TBA
+The conference rooms have access to the Kyoto University wireless network through **eduroam** authentication.  If your home institution provides you with an eduroam account, bring your credentials and you should be all set.  If not, we do have some temporary credentials for visitors. Please ask for a sheet with information at the reception desk.
 
