@@ -53,6 +53,7 @@ The Center for Integrated Area Studies (CIAS) at Kyoto University was establishe
 School of Humanities and Sociology, The University of Tokyo
  * International Institute for Digital Humanities
  [[Home](http://www.dhii.jp/index-e.html)]
+ * Alliance of Digital Humanities Organizations [(ADHO)](http://adho.org)
 
 ### Supported by 
 
