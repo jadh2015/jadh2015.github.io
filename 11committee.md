@@ -8,6 +8,7 @@ permalink: /committee/
 
  - Amano Eriko (Kyoto University)
  - Inaishi Natsuko (Kyoto University)
+ - Hashimoto Yuta (Kyoto University)
  - Kameda Akihiro (Kyoto University)  <!-- Center for Integrated Area Studies -->
  - Kamiya Toshiro (Kyoto University)
  - Nagasaki Kiyonori (International Institute for Digital Humanities)
